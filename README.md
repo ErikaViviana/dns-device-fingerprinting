@@ -93,17 +93,6 @@ These visualizations help reveal behavioral differences between devices and high
 
 ---
 
-## Repository Structure
-
-```text
-.
-├── dns-device-fingerprinting.ipynb
-├── data/
-└── README.md
-```
-
----
-
 ## Key Findings
 
 The project demonstrates that DNS traffic contains valuable behavioral information that can be used to distinguish between devices.
@@ -128,7 +117,5 @@ Through this project, the following topics were explored:
 ---
 
 ## Disclaimer
-
-This project was developed for educational and research purposes to explore network behavior analysis techniques and machine learning applications in cybersecurity.
 
 This project was developed for educational and research purposes to explore network behavior analysis techniques and machine learning applications in cybersecurity.
